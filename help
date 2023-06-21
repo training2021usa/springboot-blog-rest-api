@@ -4,3 +4,9 @@ in db role must be started with ROLE_ (example ROLE_ADMIN)
 note that title is unique
 =========================
 corresponding to text admin password generated is $2a$10$QM57Fp5PRM8EaV92.Po6U.cGIoluE1F4nVLwGtIbJo/Tmz5/mLYHC
+
+
+===================================
+for testing sign in api pass username and password in body
+
+===========
