@@ -10,8 +10,6 @@ corresponding to text admin password generated is $2a$10$QM57Fp5PRM8EaV92.Po6U.c
 for testing sign in api pass username and password in body
 
 ===========
-basic authentication is not good
-
-
-
+basic authentication is not good so use jwt token
 ================
+
